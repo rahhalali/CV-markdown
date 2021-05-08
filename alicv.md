@@ -58,6 +58,24 @@ Lebanese International University (Beirut) 2016-2020
 This is my website is showing you some of my web development with some features using html css javascript using wordpress:
 [rahalinho project](www.rahalinho.wordpress.com)
 
+2. building a website Template  using React js API and HTML and CSS 
+visit my project from github:[first template](https://github.com/rahhalali/Template_html5_css3).
+
+3. building a website Template using HTML ,CSS and JavaScript
+visit my project from github:[second template](https://github.com/rahhalali/Template/tree/master)
+
+
+## Languages 
+
+**langauge-skills:**
+
+Arabic(Native)
+
+English(Advanced):Speaking and writing.
+
+
+
+
 # **Programming-langauges:** #
 
 **JAVASCRIPT** ,**HTML** ,**CSS**,**PHP**,**OOP**,**SQL**,**MYSQL**,**JAVA**,
